@@ -1,6 +1,3 @@
-<img src="./contrib-heatmap.svg" width="860">
-<br>
-
 <div align="center">
 
 <h2>Engin ARSLAN</h2>
@@ -14,6 +11,9 @@ Güvenli, performanslı, test edilebilir ve sürdürülebilir yazılım çözüm
 </p>
 
 <br><br>
+
+<img src="./contrib-heatmap.svg" width="860">
+<br>
 
 <table>
 <tr>
