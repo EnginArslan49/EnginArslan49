@@ -10,8 +10,6 @@
 Güvenli, performanslı, test edilebilir ve sürdürülebilir yazılım çözümleri
 </p>
 
-<br><br>
-
 <img src="./contrib-heatmap.svg" width="860">
 <br>
 
